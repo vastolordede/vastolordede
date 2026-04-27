@@ -42,14 +42,9 @@ jobs:
             git clone --depth 1 https://github.com/vastolordede/$repo.git repos/$repo || true
           done < repos.txt
 
-      - name: Count lines of code
+           - name: Count lines of code
         run: |
-          echo "## 📊 Total Lines of Code" > loc.md
-          echo "" >> loc.md
-          echo "| Project | Code Lines |" >> loc.md
-          echo "|---|---:|" >> loc.md
-
-          total=0
+          echo "repo,lines" > loc.csv
 
           for dir in repos/*; do
             if [ -d "$dir" ]; then
@@ -60,13 +55,35 @@ jobs:
                 --exclude-dir=.git,node_modules,build,dist,.dart_tool,coverage,vendor,.gradle,target,bin,obj \
                 | jq '.SUM.code // 0')
 
-              total=$((total + lines))
-
-              echo "| $name | $lines |" >> loc.md
+              echo "$name,$lines" >> loc.csv
             fi
           done
 
-          echo "| **Total** | **$total** |" >> loc.md
+          total=$(tail -n +2 loc.csv | awk -F, '{sum += $2} END {print sum + 0}')
+
+          echo "## 📊 Total Lines of Code" > loc.md
+          echo "" >> loc.md
+          echo "**Total code lines:** $total" >> loc.md
+          echo "" >> loc.md
+
+          echo "### 🔥 Top 10 repositories by code lines" >> loc.md
+          echo "" >> loc.md
+          echo "| Rank | Project | Code Lines |" >> loc.md
+          echo "|---:|---|---:|" >> loc.md
+
+          tail -n +2 loc.csv | sort -t, -k2,2nr | head -n 10 | awk -F, '{print "| " NR " | " $1 " | " $2 " |"}' >> loc.md
+
+          echo "" >> loc.md
+          echo "<details>" >> loc.md
+          echo "<summary>Show all repositories</summary>" >> loc.md
+          echo "" >> loc.md
+          echo "| Rank | Project | Code Lines |" >> loc.md
+          echo "|---:|---|---:|" >> loc.md
+
+          tail -n +2 loc.csv | sort -t, -k2,2nr | awk -F, '{print "| " NR " | " $1 " | " $2 " |"}' >> loc.md
+
+          echo "" >> loc.md
+          echo "</details>" >> loc.md
 
       - name: Update README
         run: |
