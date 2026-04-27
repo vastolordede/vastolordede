@@ -14,7 +14,7 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=vastolordede&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=vastolordede&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&v=2" alt="GitHub Trophies" />
 
 ---
 
