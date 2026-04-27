@@ -22,7 +22,9 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 ![](https://github-contributor-stats.vercel.app/api?username=vastolordede&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=vastolordede&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vastolordede&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" />
+</p>
 <!-- LOC-START -->
 ## 📊 Total Lines of Code
 
