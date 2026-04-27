@@ -61,12 +61,12 @@ jobs:
 
           total=$(tail -n +2 loc.csv | awk -F, '{sum += $2} END {print sum + 0}')
 
-          echo "## 📊 Total Lines of Code" > loc.md
+          echo "<h2>📊 Total Lines of Code</h2>" > loc.md
           echo "" >> loc.md
-          echo "**Total code lines:** $total" >> loc.md
+          echo "<p><b>Total code lines:</b> $total</p>" >> loc.md
           echo "" >> loc.md
 
-          echo "### 🔥 Top 10 repositories by code lines" >> loc.md
+          echo "<h3>🔥 Top 10 repositories by code lines</h3>" >> loc.md
           echo "" >> loc.md
           echo "| Rank | Project | Code Lines |" >> loc.md
           echo "|---:|---|---:|" >> loc.md
