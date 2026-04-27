@@ -13,13 +13,15 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vastolordede&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vastolordede&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<img src="https://github-profile-trophy.vercel.app/?username=vastolordede&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vastolordede&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+
+<img src="https://github-contributor-stats.vercel.app/api?username=vastolordede&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
 ---
 <p align="center">
