@@ -30,30 +30,51 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 <!-- LOC-START -->
 ## 📊 Total Lines of Code
 
-| Project | Code Lines |
-|---|---:|
-| BloodBorneWeb | 20594 |
-| ChattingApp | 24059 |
-| DOANOOP-AfterDemo- | 67 |
-| Deploy-Test | 7071 |
-| Do-An-java | 10764 |
-| DoAnOOP | 1936 |
-| DoAnWeb | 3326 |
-| DungeonGame | 3517 |
-| JSXTechnical | 23712 |
-| JolibeeChicken | 22371 |
-| LTWEBUD | 3546 |
-| Liu-Guan-Yi | 34 |
-| POSRap | 6092 |
-| QuanLySach.DoAnOOP | 2444 |
-| Trading_Platform | 5997 |
-| Web-Limbo | 21348 |
-| Web1 | 20236 |
-| ai_text_app | 41706 |
-| flightbooking | 10677 |
-| mFINALpWEB | 7546 |
-| speech-recognition-app | 97 |
-| **Total** | **237140** |
+**Total code lines:** 237140
+
+### 🔥 Top 10 repositories by code lines
+
+| Rank | Project | Code Lines |
+|---:|---|---:|
+| 1 | ai_text_app | 41706 |
+| 2 | ChattingApp | 24059 |
+| 3 | JSXTechnical | 23712 |
+| 4 | JolibeeChicken | 22371 |
+| 5 | Web-Limbo | 21348 |
+| 6 | BloodBorneWeb | 20594 |
+| 7 | Web1 | 20236 |
+| 8 | Do-An-java | 10764 |
+| 9 | flightbooking | 10677 |
+| 10 | mFINALpWEB | 7546 |
+
+<details>
+<summary>Show all repositories</summary>
+
+| Rank | Project | Code Lines |
+|---:|---|---:|
+| 1 | ai_text_app | 41706 |
+| 2 | ChattingApp | 24059 |
+| 3 | JSXTechnical | 23712 |
+| 4 | JolibeeChicken | 22371 |
+| 5 | Web-Limbo | 21348 |
+| 6 | BloodBorneWeb | 20594 |
+| 7 | Web1 | 20236 |
+| 8 | Do-An-java | 10764 |
+| 9 | flightbooking | 10677 |
+| 10 | mFINALpWEB | 7546 |
+| 11 | Deploy-Test | 7071 |
+| 12 | POSRap | 6092 |
+| 13 | Trading_Platform | 5997 |
+| 14 | LTWEBUD | 3546 |
+| 15 | DungeonGame | 3517 |
+| 16 | DoAnWeb | 3326 |
+| 17 | QuanLySach.DoAnOOP | 2444 |
+| 18 | DoAnOOP | 1936 |
+| 19 | speech-recognition-app | 97 |
+| 20 | DOANOOP-AfterDemo- | 67 |
+| 21 | Liu-Guan-Yi | 34 |
+
+</details>
 
 <!-- LOC-END -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
