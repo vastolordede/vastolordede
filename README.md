@@ -30,7 +30,28 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 
 | Project | Code Lines |
 |---|---:|
-| **Total** | **0** |
+| BloodBorneWeb | 20594 |
+| ChattingApp | 24059 |
+| DOANOOP-AfterDemo- | 67 |
+| Deploy-Test | 7071 |
+| Do-An-java | 10764 |
+| DoAnOOP | 1936 |
+| DoAnWeb | 3326 |
+| DungeonGame | 3517 |
+| JSXTechnical | 23712 |
+| JolibeeChicken | 22371 |
+| LTWEBUD | 3546 |
+| Liu-Guan-Yi | 34 |
+| POSRap | 6092 |
+| QuanLySach.DoAnOOP | 2444 |
+| Trading_Platform | 5997 |
+| Web-Limbo | 21348 |
+| Web1 | 20236 |
+| ai_text_app | 41706 |
+| flightbooking | 10677 |
+| mFINALpWEB | 7546 |
+| speech-recognition-app | 97 |
+| **Total** | **237140** |
 
 <!-- LOC-END -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
