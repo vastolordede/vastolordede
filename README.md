@@ -46,9 +46,6 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 
 ---
 
-## 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=vastolordede&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 <!-- LOC-START -->
 ## 📊 Total Lines of Code
 
