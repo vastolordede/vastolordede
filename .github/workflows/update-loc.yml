@@ -25,7 +25,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          mkdir repos
+          mkdir -p repos
 
           gh repo list vastolordede \
             --limit 100 \
@@ -42,7 +42,7 @@ jobs:
             git clone --depth 1 https://github.com/vastolordede/$repo.git repos/$repo || true
           done < repos.txt
 
-           - name: Count lines of code
+      - name: Count lines of code
         run: |
           echo "repo,lines" > loc.csv
 
