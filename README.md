@@ -14,19 +14,41 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=vastolordede&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=vastolordede&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 Top Contributed Repo
+## 📌 Featured Projects
 
-<img src="https://github-contributor-stats.vercel.app/api?username=vastolordede&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+<a href="https://github.com/vastolordede/ChattingApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vastolordede&repo=ChattingApp&theme=radical" alt="ChattingApp" />
+</a>
+
+<a href="https://github.com/vastolordede/Trading_Platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vastolordede&repo=Trading_Platform&theme=radical" alt="Trading Platform" />
+</a>
+
+<a href="https://github.com/vastolordede/ai_text_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vastolordede&repo=ai_text_app&theme=radical" alt="AI Text App" />
+</a>
+
+<a href="https://github.com/vastolordede/speech-recognition-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vastolordede&repo=speech-recognition-app&theme=radical" alt="Speech Recognition App" />
+</a>
 
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vastolordede&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" />
 </p>
+
+---
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=vastolordede&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 <!-- LOC-START -->
 ## 📊 Total Lines of Code
 
