@@ -1,0 +1,80 @@
+name: Update LOC
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-loc:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile README repo
+        uses: actions/checkout@v4
+
+      - name: Install cloc
+        run: sudo apt-get update && sudo apt-get install -y cloc
+
+      - name: Clone selected repositories
+        run: |
+          mkdir repos
+          git clone https://github.com/vastolordede/chattingapp_be.git repos/chattingapp_be || true
+          git clone https://github.com/vastolordede/chattingapp_fe.git repos/chattingapp_fe || true
+          git clone https://github.com/vastolordede/trading-platform.git repos/trading-platform || true
+
+      - name: Count lines of code
+        run: |
+          echo "## 📊 Total Lines of Code" > loc.md
+          echo "" >> loc.md
+          echo "| Project | Code Lines |" >> loc.md
+          echo "|---|---:|" >> loc.md
+
+          total=0
+
+          for dir in repos/*; do
+            if [ -d "$dir" ]; then
+              name=$(basename "$dir")
+              lines=$(cloc "$dir" --json --exclude-dir=.git,node_modules,build,dist,.dart_tool,coverage | jq '.SUM.code // 0')
+              total=$((total + lines))
+              echo "| $name | $lines |" >> loc.md
+            fi
+          done
+
+          echo "| **Total** | **$total** |" >> loc.md
+
+      - name: Update README
+        run: |
+          python3 << 'EOF'
+          from pathlib import Path
+
+          readme = Path("README.md")
+          loc = Path("loc.md").read_text(encoding="utf-8")
+
+          content = readme.read_text(encoding="utf-8")
+
+          start = "<!-- LOC-START -->"
+          end = "<!-- LOC-END -->"
+
+          block = f"{start}\n{loc}\n{end}"
+
+          if start in content and end in content:
+              before = content.split(start)[0]
+              after = content.split(end)[1]
+              content = before + block + after
+          else:
+              content += "\n\n" + block + "\n"
+
+          readme.write_text(content, encoding="utf-8")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update total lines of code" || echo "No changes to commit"
+          git push
