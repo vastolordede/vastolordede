@@ -12,10 +12,6 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 ![](https://streak-stats.demolab.com/?user=vastolordede&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vastolordede&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=vastolordede&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&v=2" alt="GitHub Trophies" />
-
 ---
 
 ### ✍️ Random Dev Quote
