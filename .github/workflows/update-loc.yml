@@ -1,4 +1,3 @@
-
 name: Update LOC
 
 on:
@@ -17,15 +16,31 @@ jobs:
       - name: Checkout profile README repo
         uses: actions/checkout@v4
 
-      - name: Install cloc
-        run: sudo apt-get update && sudo apt-get install -y cloc
+      - name: Install cloc and jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y cloc jq
 
-      - name: Clone selected repositories
+      - name: Get all public repositories
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           mkdir repos
-          git clone https://github.com/vastolordede/chattingapp_be.git repos/chattingapp_be || true
-          git clone https://github.com/vastolordede/chattingapp_fe.git repos/chattingapp_fe || true
-          git clone https://github.com/vastolordede/trading-platform.git repos/trading-platform || true
+
+          gh repo list vastolordede \
+            --limit 100 \
+            --json name,isFork,isPrivate \
+            --jq '.[] | select(.isPrivate == false and .isFork == false and .name != "vastolordede") | .name' > repos.txt
+
+          echo "Repositories to count:"
+          cat repos.txt
+
+      - name: Clone repositories
+        run: |
+          while read repo; do
+            echo "Cloning $repo ..."
+            git clone --depth 1 https://github.com/vastolordede/$repo.git repos/$repo || true
+          done < repos.txt
 
       - name: Count lines of code
         run: |
@@ -39,8 +54,14 @@ jobs:
           for dir in repos/*; do
             if [ -d "$dir" ]; then
               name=$(basename "$dir")
-              lines=$(cloc "$dir" --json --exclude-dir=.git,node_modules,build,dist,.dart_tool,coverage | jq '.SUM.code // 0')
+
+              lines=$(cloc "$dir" \
+                --json \
+                --exclude-dir=.git,node_modules,build,dist,.dart_tool,coverage,vendor,.gradle,target,bin,obj \
+                | jq '.SUM.code // 0')
+
               total=$((total + lines))
+
               echo "| $name | $lines |" >> loc.md
             fi
           done
