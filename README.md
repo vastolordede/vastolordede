@@ -43,11 +43,11 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 ---
 
 <!-- LOC-START -->
-## 📊 Total Lines of Code
+<h2>📊 Total Lines of Code</h2>
 
-**Total code lines:** 237140
+<p><b>Total code lines:</b> 237140</p>
 
-### 🔥 Top 10 repositories by code lines
+<h3>🔥 Top 10 repositories by code lines</h3>
 
 | Rank | Project | Code Lines |
 |---:|---|---:|
