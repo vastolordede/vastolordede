@@ -45,14 +45,14 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 <!-- LOC-START -->
 <h2>📊 Total Lines of Code</h2>
 
-<p><b>Total code lines:</b> 237140</p>
+<p><b>Total code lines:</b> 237733</p>
 
 <h3>🔥 Top 10 repositories by code lines</h3>
 
 | Rank | Project | Code Lines |
 |---:|---|---:|
 | 1 | ai_text_app | 41706 |
-| 2 | ChattingApp | 24059 |
+| 2 | ChattingApp | 24652 |
 | 3 | JSXTechnical | 23712 |
 | 4 | JolibeeChicken | 22371 |
 | 5 | Web-Limbo | 21348 |
@@ -68,7 +68,7 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 | Rank | Project | Code Lines |
 |---:|---|---:|
 | 1 | ai_text_app | 41706 |
-| 2 | ChattingApp | 24059 |
+| 2 | ChattingApp | 24652 |
 | 3 | JSXTechnical | 23712 |
 | 4 | JolibeeChicken | 22371 |
 | 5 | Web-Limbo | 21348 |
