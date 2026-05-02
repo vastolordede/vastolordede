@@ -45,7 +45,7 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 <!-- LOC-START -->
 <h2>📊 Total Lines of Code</h2>
 
-<p><b>Total code lines:</b> 239449</p>
+<p><b>Total code lines:</b> 239801</p>
 
 <h3>🔥 Top 10 repositories by code lines</h3>
 
@@ -60,7 +60,7 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 | 7 | Web1 | 20236 |
 | 8 | Do-An-java | 10764 |
 | 9 | flightbooking | 10677 |
-| 10 | Trading_Platform | 7713 |
+| 10 | Trading_Platform | 8065 |
 
 <details>
 <summary>Show all repositories</summary>
@@ -76,7 +76,7 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 | 7 | Web1 | 20236 |
 | 8 | Do-An-java | 10764 |
 | 9 | flightbooking | 10677 |
-| 10 | Trading_Platform | 7713 |
+| 10 | Trading_Platform | 8065 |
 | 11 | mFINALpWEB | 7546 |
 | 12 | Deploy-Test | 7071 |
 | 13 | POSRap | 6092 |
