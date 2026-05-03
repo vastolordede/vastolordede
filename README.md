@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>I like turning ideas into real products and constantly improving my skills through hands-on projects.<br><br>If something sparks my curiosity, chances are I'll try to build it.
+I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>I like turning ideas into real products and constantly improving my skills through hands-on projects.<br><br>If something sparks my curiosity, chances are I'll try to build it .
 
 
 ## 🌐 Socials:
