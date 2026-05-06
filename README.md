@@ -45,7 +45,7 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 <!-- LOC-START -->
 <h2>📊 Total Lines of Code</h2>
 
-<p><b>Total code lines:</b> 241057</p>
+<p><b>Total code lines:</b> 241216</p>
 
 <h3>🔥 Top 10 repositories by code lines</h3>
 
@@ -85,7 +85,7 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 | 16 | DoAnWeb | 3326 |
 | 17 | QuanLySach.DoAnOOP | 2444 |
 | 18 | DoAnOOP | 1936 |
-| 19 | DoAnPythonSchool | 1073 |
+| 19 | DoAnPythonSchool | 1232 |
 | 20 | speech-recognition-app | 97 |
 | 21 | DOANOOP-AfterDemo- | 67 |
 | 22 | Liu-Guan-Yi | 34 |
