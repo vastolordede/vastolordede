@@ -45,7 +45,7 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 <!-- LOC-START -->
 <h2>📊 Total Lines of Code</h2>
 
-<p><b>Total code lines:</b> 243539</p>
+<p><b>Total code lines:</b> 254470</p>
 
 <h3>🔥 Top 10 repositories by code lines</h3>
 
@@ -58,9 +58,9 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 | 5 | Web-Limbo | 21348 |
 | 6 | BloodBorneWeb | 20594 |
 | 7 | Web1 | 20236 |
-| 8 | Do-An-java | 10764 |
-| 9 | flightbooking | 10677 |
-| 10 | Trading_Platform | 8248 |
+| 8 | VinhKhanhNarration | 10931 |
+| 9 | Do-An-java | 10764 |
+| 10 | flightbooking | 10677 |
 
 <details>
 <summary>Show all repositories</summary>
@@ -74,22 +74,23 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 | 5 | Web-Limbo | 21348 |
 | 6 | BloodBorneWeb | 20594 |
 | 7 | Web1 | 20236 |
-| 8 | Do-An-java | 10764 |
-| 9 | flightbooking | 10677 |
-| 10 | Trading_Platform | 8248 |
-| 11 | mFINALpWEB | 7546 |
-| 12 | Deploy-Test | 7071 |
-| 13 | POSRap | 6092 |
-| 14 | LTWEBUD | 3546 |
-| 15 | DungeonGame | 3517 |
-| 16 | DoAnWeb | 3326 |
-| 17 | QuanLySach.DoAnOOP | 2444 |
-| 18 | traffic-sign-recognition---PersonalEdit | 2199 |
-| 19 | DoAnOOP | 1936 |
-| 20 | DoAnPythonSchool | 1356 |
-| 21 | speech-recognition-app | 97 |
-| 22 | DOANOOP-AfterDemo- | 67 |
-| 23 | Liu-Guan-Yi | 34 |
+| 8 | VinhKhanhNarration | 10931 |
+| 9 | Do-An-java | 10764 |
+| 10 | flightbooking | 10677 |
+| 11 | Trading_Platform | 8248 |
+| 12 | mFINALpWEB | 7546 |
+| 13 | Deploy-Test | 7071 |
+| 14 | POSRap | 6092 |
+| 15 | LTWEBUD | 3546 |
+| 16 | DungeonGame | 3517 |
+| 17 | DoAnWeb | 3326 |
+| 18 | QuanLySach.DoAnOOP | 2444 |
+| 19 | traffic-sign-recognition---PersonalEdit | 2199 |
+| 20 | DoAnOOP | 1936 |
+| 21 | DoAnPythonSchool | 1356 |
+| 22 | speech-recognition-app | 97 |
+| 23 | DOANOOP-AfterDemo- | 67 |
+| 24 | Liu-Guan-Yi | 34 |
 
 </details>
 
