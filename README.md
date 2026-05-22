@@ -45,7 +45,7 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 <!-- LOC-START -->
 <h2>📊 Total Lines of Code</h2>
 
-<p><b>Total code lines:</b> 254470</p>
+<p><b>Total code lines:</b> 254504</p>
 
 <h3>🔥 Top 10 repositories by code lines</h3>
 
@@ -58,7 +58,7 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 | 5 | Web-Limbo | 21348 |
 | 6 | BloodBorneWeb | 20594 |
 | 7 | Web1 | 20236 |
-| 8 | VinhKhanhNarration | 10931 |
+| 8 | VinhKhanhNarration | 10965 |
 | 9 | Do-An-java | 10764 |
 | 10 | flightbooking | 10677 |
 
@@ -74,7 +74,7 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 | 5 | Web-Limbo | 21348 |
 | 6 | BloodBorneWeb | 20594 |
 | 7 | Web1 | 20236 |
-| 8 | VinhKhanhNarration | 10931 |
+| 8 | VinhKhanhNarration | 10965 |
 | 9 | Do-An-java | 10764 |
 | 10 | flightbooking | 10677 |
 | 11 | Trading_Platform | 8248 |
