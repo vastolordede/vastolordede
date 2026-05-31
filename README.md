@@ -45,7 +45,7 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 <!-- LOC-START -->
 <h2>📊 Total Lines of Code</h2>
 
-<p><b>Total code lines:</b> 258668</p>
+<p><b>Total code lines:</b> 260131</p>
 
 <h3>🔥 Top 10 repositories by code lines</h3>
 
@@ -87,10 +87,11 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 | 18 | QuanLySach.DoAnOOP | 2444 |
 | 19 | traffic-sign-recognition---PersonalEdit | 2199 |
 | 20 | DoAnOOP | 1936 |
-| 21 | DoAnPythonSchool | 1356 |
-| 22 | speech-recognition-app | 97 |
-| 23 | DOANOOP-AfterDemo- | 67 |
-| 24 | Liu-Guan-Yi | 34 |
+| 21 | traficSignReconignitionGGColab | 1463 |
+| 22 | DoAnPythonSchool | 1356 |
+| 23 | speech-recognition-app | 97 |
+| 24 | DOANOOP-AfterDemo- | 67 |
+| 25 | Liu-Guan-Yi | 34 |
 
 </details>
 
