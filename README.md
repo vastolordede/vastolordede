@@ -45,7 +45,7 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 <!-- LOC-START -->
 <h2>📊 Total Lines of Code</h2>
 
-<p><b>Total code lines:</b> 260252</p>
+<p><b>Total code lines:</b> 266692</p>
 
 <h3>🔥 Top 10 repositories by code lines</h3>
 
@@ -55,10 +55,10 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 | 2 | ChattingApp | 24652 |
 | 3 | JSXTechnical | 23712 |
 | 4 | JolibeeChicken | 22371 |
-| 5 | Web-Limbo | 21348 |
-| 6 | BloodBorneWeb | 20594 |
-| 7 | Web1 | 20236 |
-| 8 | VinhKhanhNarration | 15250 |
+| 5 | VinhKhanhNarration | 21690 |
+| 6 | Web-Limbo | 21348 |
+| 7 | BloodBorneWeb | 20594 |
+| 8 | Web1 | 20236 |
 | 9 | Do-An-java | 10764 |
 | 10 | flightbooking | 10677 |
 
@@ -71,10 +71,10 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 | 2 | ChattingApp | 24652 |
 | 3 | JSXTechnical | 23712 |
 | 4 | JolibeeChicken | 22371 |
-| 5 | Web-Limbo | 21348 |
-| 6 | BloodBorneWeb | 20594 |
-| 7 | Web1 | 20236 |
-| 8 | VinhKhanhNarration | 15250 |
+| 5 | VinhKhanhNarration | 21690 |
+| 6 | Web-Limbo | 21348 |
+| 7 | BloodBorneWeb | 20594 |
+| 8 | Web1 | 20236 |
 | 9 | Do-An-java | 10764 |
 | 10 | flightbooking | 10677 |
 | 11 | Trading_Platform | 8248 |
