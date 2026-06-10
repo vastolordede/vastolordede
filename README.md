@@ -3,97 +3,24 @@ I'm Liu Guan Yi, a student who enjoys building and exploring technology.<br><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thành-đặng-phạm-quách-28a7493a1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31879127) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:3124410070@sv.sgu.edu.vn ) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:3124410070@sv.sgu.edu.vn) 
 
 # 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=76B900) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat-square&logo=elasticsearch&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vastolordede&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=vastolordede&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=vastolordede&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vastolordede&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vastolordede&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 📈 Contribution Activity
+[![Liu Guan Yi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vastolordede&theme=github-compact&hide_border=true)](https://github.com/vastolordede)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📌 Featured Projects
 
-<a href="https://github.com/vastolordede/ChattingApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vastolordede&repo=ChattingApp&theme=radical" alt="ChattingApp" />
-</a>
-
-<a href="https://github.com/vastolordede/Trading_Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vastolordede&repo=Trading_Platform&theme=radical" alt="Trading Platform" />
-</a>
-
-<a href="https://github.com/vastolordede/ai_text_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vastolordede&repo=ai_text_app&theme=radical" alt="AI Text App" />
-</a>
-
-<a href="https://github.com/vastolordede/speech-recognition-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vastolordede&repo=speech-recognition-app&theme=radical" alt="Speech Recognition App" />
-</a>
-
+## 🧩 Repositories Overview
+![Metrics](/github-metrics.svg)
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vastolordede&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" />
-</p>
-
----
-
-<!-- LOC-START -->
-<h2>📊 Total Lines of Code</h2>
-
-<p><b>Total code lines:</b> 265108</p>
-
-<h3>🔥 Top 10 repositories by code lines</h3>
-
-| Rank | Project | Code Lines |
-|---:|---|---:|
-| 1 | ai_text_app | 41706 |
-| 2 | ChattingApp | 24652 |
-| 3 | JSXTechnical | 23712 |
-| 4 | JolibeeChicken | 22371 |
-| 5 | Web-Limbo | 21348 |
-| 6 | BloodBorneWeb | 20594 |
-| 7 | Web1 | 20236 |
-| 8 | VinhKhanhNarration | 20106 |
-| 9 | Do-An-java | 10764 |
-| 10 | flightbooking | 10677 |
-
-<details>
-<summary>Show all repositories</summary>
-
-| Rank | Project | Code Lines |
-|---:|---|---:|
-| 1 | ai_text_app | 41706 |
-| 2 | ChattingApp | 24652 |
-| 3 | JSXTechnical | 23712 |
-| 4 | JolibeeChicken | 22371 |
-| 5 | Web-Limbo | 21348 |
-| 6 | BloodBorneWeb | 20594 |
-| 7 | Web1 | 20236 |
-| 8 | VinhKhanhNarration | 20106 |
-| 9 | Do-An-java | 10764 |
-| 10 | flightbooking | 10677 |
-| 11 | Trading_Platform | 8248 |
-| 12 | mFINALpWEB | 7546 |
-| 13 | Deploy-Test | 7071 |
-| 14 | POSRap | 6092 |
-| 15 | LTWEBUD | 3546 |
-| 16 | DungeonGame | 3517 |
-| 17 | DoAnWeb | 3326 |
-| 18 | QuanLySach.DoAnOOP | 2444 |
-| 19 | traffic-sign-recognition---PersonalEdit | 2199 |
-| 20 | DoAnOOP | 1936 |
-| 21 | traficSignReconignitionGGColab | 1463 |
-| 22 | DoAnPythonSchool | 1356 |
-| 23 | speech-recognition-app | 97 |
-| 24 | DOANOOP-AfterDemo- | 67 |
-| 25 | Liu-Guan-Yi | 34 |
-
-</details>
-
-<!-- LOC-END -->
+![](https://komarev.com/ghpvc/?username=vastolordede&color=blue&style=flat-square)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
